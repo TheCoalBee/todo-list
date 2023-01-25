@@ -4,12 +4,3 @@ import {lists} from './list';
 
 createNewListBtn();
 generateLayoutDOM();
-
-
-const list = createList("title ", "desc");
-
-createListItem('list item', '', list);
-createListItem('list item', '', list);
-createListItem('list item', '', list);
-createListItem('list item', '', list);
-createListItem('list item', '', list);
